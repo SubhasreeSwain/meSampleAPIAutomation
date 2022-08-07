@@ -1,5 +1,10 @@
 package pojoClass;
 
+/*
+ * Author : Subhasree Swain
+ * Description: POJO class to create request body for USERS API
+*/
+
 public class User {
 
 	private String name;
